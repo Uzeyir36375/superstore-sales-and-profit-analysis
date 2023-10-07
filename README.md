@@ -1,1 +1,3 @@
-# superstore-sales-and-profit-analysis
+# Superstore Sales and Profit Analysis
+
+# Background
